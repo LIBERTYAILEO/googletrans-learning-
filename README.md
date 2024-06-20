@@ -30,7 +30,9 @@ The googletrans module is a free and unlimited Python library that implements Go
 
 Installation
 
-To run this script, you need to have Python installed on your system. Additionally, you need to install the googletrans and httpx modules.You can install the required modules using pip:pip install googletrans==4.0.0-rc1 httpx
+To run this script, you need to have Python installed on your system. Additionally, you need to install the googletrans and httpx modules.You can install the required modules using pip:
+
+pip install googletrans==4.0.0-rc1 httpx
 
 
 Usage
