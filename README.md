@@ -21,6 +21,8 @@ Error Handling
 License
 
 
+
+
 Introduction
 
 The googletrans module is a free and unlimited Python library that implements Google Translate API. This script provides a basic introduction to using googletrans for translating text and detecting languages.
@@ -33,7 +35,7 @@ To run this script, you need to have Python installed on your system. Additional
 
 Usage
 
-Clone the repository:git clone https://github.com/yourusername/googletrans-learning.git
+Clone the repository:git clone https://github.com/LIBERTYAILEO/googletrans-learning.git
 cd googletrans-learningRun the script:python googletrans_learning.py
 
 
