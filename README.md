@@ -9,11 +9,17 @@ This repository contains a Python script that demonstrates the basic usage of th
 Table of Contents
 
 Introduction
+
 Installation
+
 Usage
+
 Script Explanation
+
 Error Handling
+
 License
+
 
 Introduction
 
