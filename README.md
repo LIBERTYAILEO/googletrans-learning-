@@ -35,7 +35,7 @@ To run this script, you need to have Python installed on your system. Additional
 
 Usage
 
-Clone the repository:git clone https://github.com/LIBERTYAILEO/googletrans-learning.git
+Clone the repository:git clone https://github.com/LIBERTYAILEO/googletrans-learning-.git
 cd googletrans-learningRun the script:python googletrans_learning.py
 
 
